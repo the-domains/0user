@@ -1,0 +1,57 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.3488745850045234
+  lightness: 0.059809892904013395
+  saturation: 0.27546648238785565
+  rhythmicContrast: 0.4098923329729587
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Uptime
+layout_spectrum: 0.15792588260956109
+typography_spectrum: 0.30334971309639513
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddb0fa85-3614-4698-b8bf-3431af131da3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddb0fa85-3614-4698-b8bf-3431af131da3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: UPTIME
+description: You are always ahead of time !
+author:
+  name: Sandipan Banerjee
+  email: ysiamhere@gmail.com
+  url: 'https://ineventweb.wordpress.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fa92f42-f808-4692-bc31-bb7d253bef50.png
+url: 'https://thegrid.ai/uptime/'
+github: true
+favicon: null
