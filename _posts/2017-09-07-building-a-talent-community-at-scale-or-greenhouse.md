@@ -28,13 +28,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.greenhouse.io/blog/build-talent-community-at-scale'
 title: Building a Talent Community At Scale | Greenhouse
-datePublished: '2017-09-07T21:33:18.262Z'
-dateModified: '2017-09-07T21:31:41.423Z'
-datePublishedOriginal: '2017-09-07T21:33:18.262Z'
+datePublished: '2017-09-07T23:45:43.162Z'
+dateModified: '2017-09-07T23:45:42.637Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-07-building-a-talent-community-at-scale-or-greenhouse.md
+starred: false
+datePublishedOriginal: '2017-09-07T21:33:18.262Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
