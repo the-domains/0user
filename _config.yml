@@ -1,14 +1,16 @@
+layout_spectrum: 0.9195677153659192
+typography_spectrum: 0.3418318177334559
 color:
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.3488745850045234
-  lightness: 0.059809892904013395
-  saturation: 0.27546648238785565
-  rhythmicContrast: 0.4098923329729587
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  brandStrength: 0.8703930502778638
+  lightness: 0.8194220416694142
+  saturation: 0.8390295088219244
+  rhythmicContrast: 0.0781336050142193
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Uptime
-layout_spectrum: 0.15792588260956109
-typography_spectrum: 0.30334971309639513
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
