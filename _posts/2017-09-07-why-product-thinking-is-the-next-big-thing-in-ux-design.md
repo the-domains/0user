@@ -44,13 +44,13 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe
 title: Why Product Thinking is the next big thing in UX Design
-datePublished: '2017-09-07T23:38:58.237Z'
-dateModified: '2017-09-07T23:38:08.890Z'
-datePublishedOriginal: '2017-09-07T23:38:58.237Z'
+datePublished: '2017-09-07T23:45:43.165Z'
+dateModified: '2017-09-07T23:45:42.637Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-07-why-product-thinking-is-the-next-big-thing-in-ux-design.md
+starred: false
+datePublishedOriginal: '2017-09-07T23:38:58.237Z'
 _type: Article
 _context: 'http://schema.org'
 
