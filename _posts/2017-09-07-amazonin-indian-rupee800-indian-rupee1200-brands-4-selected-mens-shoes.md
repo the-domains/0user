@@ -27,8 +27,8 @@ isBasedOnUrl: >-
 title: >-
   Amazon.in: ₹800 - ₹1,200 - Brands: 4 selected / Men's Shoes / Shoes: Shoes &
   Handbags
-datePublished: '2017-09-07T23:45:43.162Z'
-dateModified: '2017-09-07T23:45:42.637Z'
+datePublished: '2017-09-07T23:57:18.826Z'
+dateModified: '2017-09-07T23:57:18.483Z'
 via: {}
 inFeed: true
 sourcePath: >-
