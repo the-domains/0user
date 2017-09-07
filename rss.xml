@@ -4,9 +4,16 @@
         <description><![CDATA[UPTIME]]></description>
         <link>https://thegrid.ai/uptime/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Sep 2017 22:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2017 22:42:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uptime/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Sep 2017 22:41:28 GMT</pubDate>
+        <pubDate>Thu, 07 Sep 2017 22:42:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Amazon.in: Under ₹1,000 - Jeans / Men: Clothing & Accessories]]></title>
+            <description><![CDATA[<article><h1>Amazon.in: Under &#x20B9;1,000 - Jeans / Men: Clothing &amp; Accessories</h1><p>Online shopping from a great selection at Clothing &amp; Accessories Store.</p><img src="https://images-eu.ssl-images-amazon.com/images/I/41DJaXKe8EL._AC_UL260_SR200,260_.jpg"></article>]]></description>
+            <link>https://www.amazon.in/s/ref=lp_1968076031_nr_p_36_0?fst=as%3Aoff&amp;rh=n%3A1571271031%2Cn%3A%211571272031%2Cn%3A1968024031%2Cn%3A1968076031%2Cp_36%3A4595084031&amp;bbn=1968076031&amp;ie=UTF8&amp;qid=1504824064&amp;rnid=4595083031</link>
+            <guid isPermaLink="false">5455ebf5-2fde-433c-9668-6e2cc4cea585</guid>
+            <pubDate>Thu, 07 Sep 2017 22:42:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amazon.in: Laptop: Computers & Accessories]]></title>
             <description><![CDATA[<article><h1>Amazon.in: Laptop: Computers &amp; Accessories</h1><p>Online shopping from a great selection at Computers &amp; Accessories Store.</p><img src="https://images-eu.ssl-images-amazon.com/images/I/51YzZh5uOHL._AC_US160_.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://amzn.to/2wB8YtB</link>
             <guid isPermaLink="false">dd5bf163-a567-4307-b3b4-1a3553449f37</guid>
             <pubDate>Mon, 04 Sep 2017 17:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Customer Analytics Are the Key to Creating Value]]></title>
-            <description><![CDATA[<article><h1>Why Customer Analytics Are the Key to Creating Value</h1><p>Today consumers expect to get what they want, when they want it. At Google, we refer to those intent-rich moments-when someone wants to learn, go, do, or buy-as micro-moments. Connecting in these moments requires comprehensive data and analytics that can drive better experiences throughout the customer journey.</p><img src="https://storage.googleapis.com/twg-content/images/why-customer-analytics-are-key-creating-value.width-1200.jpg"></article>]]></description>
-            <link>https://www.thinkwithgoogle.com/marketing-resources/data-measurement/why-customer-analytics-are-key-creating-value/</link>
-            <guid isPermaLink="false">326a000f-575f-4af9-b123-8a59a708c290</guid>
-            <pubDate>Wed, 30 Aug 2017 20:27:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
