@@ -25,8 +25,8 @@ app_links: []
 isBasedOnUrl: >-
   https://zapier.com/blog/manage-projects-asana-pivotal/?utm_medium=Email&utm_source=Monthly%20Email&utm_campaign=Release%20Notes%20August%202017&utm_content=button
 title: How MeUndies Connects Multiple Teams with Different Project Management Tools
-datePublished: '2017-09-07T23:45:43.165Z'
-dateModified: '2017-09-07T23:45:42.637Z'
+datePublished: '2017-09-07T23:57:18.853Z'
+dateModified: '2017-09-07T23:57:18.483Z'
 via: {}
 inFeed: true
 sourcePath: >-
