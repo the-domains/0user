@@ -18,14 +18,14 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://brandchannel.com/2017/07/17/5-questions-sharp-peter-weedfald/'
 title: 'Co-Branding That Pops: 5 Questions With Sharp''s Peter Weedfald'
-datePublished: '2017-09-07T21:33:41.372Z'
-dateModified: '2017-09-07T21:33:05.318Z'
-datePublishedOriginal: '2017-09-07T21:33:41.372Z'
+datePublished: '2017-09-07T23:45:43.162Z'
+dateModified: '2017-09-07T23:45:42.637Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-09-07-co-branding-that-pops-5-questions-with-sharps-peter-weedfa.md
+starred: false
+datePublishedOriginal: '2017-09-07T21:33:41.372Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
