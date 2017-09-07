@@ -22,8 +22,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.amazon.in/s/ref=lp_1968120031_nr_p_36_0?fst=as%3Aoff&rh=n%3A1571271031%2Cn%3A%211571272031%2Cn%3A1968024031%2Cn%3A1968120031%2Cp_36%3A4595084031&bbn=1968120031&ie=UTF8&qid=1504824208&rnid=4595083031&_encoding=UTF8&tag=uptime01-21&linkCode=ur2&linkId=66b007567cbfe2a19ac0abc133bc3051&camp=3638&creative=24630
 title: 'Amazon.in: Under ₹1,000 - T-Shirts & Polos / Men: Clothing & Accessories'
-datePublished: '2017-09-07T23:45:43.164Z'
-dateModified: '2017-09-07T23:45:42.637Z'
+datePublished: '2017-09-07T23:57:18.847Z'
+dateModified: '2017-09-07T23:57:18.483Z'
 via: {}
 inFeed: true
 sourcePath: >-
