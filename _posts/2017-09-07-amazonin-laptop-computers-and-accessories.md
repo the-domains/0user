@@ -15,13 +15,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.amazon.in/gp/search?ie=UTF8&tag=uptime01-21&linkCode=ur2&linkId=6fc72cd675484e635d4810d66d86a6f8&camp=3638&creative=24630&index=computers&keywords=Laptop
 title: 'Amazon.in: Laptop: Computers & Accessories'
-datePublished: '2017-09-07T22:41:27.877Z'
-dateModified: '2017-09-07T22:40:37.313Z'
-datePublishedOriginal: '2017-09-07T22:41:27.877Z'
+datePublished: '2017-09-07T23:45:43.161Z'
+dateModified: '2017-09-07T23:45:42.637Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-07-amazonin-laptop-computers-and-accessories.md
+starred: false
+datePublishedOriginal: '2017-09-07T22:41:27.877Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
