@@ -19,13 +19,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.wordstream.com/blog/ws/2017/08/08/positive-vs-negative-ads?cid=Nurture_WS_Email_PPC_PerfTipNewsletter_BlogVisit&utm_source=Email&utm_medium=Nurture&utm_campaign=PerfTipNewsletter&utm_content=WS&mkt_tok=eyJpIjoiWkdJeE9ETXdZekZpWVRRMyIsInQiOiI1MnFrK1ZmZ1wvTnhrZUpoTUxENGJhV1pcL1JIdDdSQm9waGNFMm5Pd2dWdzBqWXUyN1FYSlVsTG5kR2RNXC9oQlwvT0xuUGMyOHo1XC84Tk82VXVHVUVuWFAxQWF3andmMTBmeGFtdUZBSm56YW5ZdzBGajVRRDVhdHI4ZzAyempKZHJyIn0%3D
 title: 'Positive vs. Negative Ads: Which Works Better?'
-datePublished: '2017-09-07T23:43:32.778Z'
-dateModified: '2017-09-07T23:42:34.970Z'
-datePublishedOriginal: '2017-09-07T23:43:32.778Z'
+datePublished: '2017-09-07T23:45:43.158Z'
+dateModified: '2017-09-07T23:45:42.637Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-07-positive-vs-negative-ads-which-works-better.md
+starred: false
+datePublishedOriginal: '2017-09-07T23:43:32.778Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
