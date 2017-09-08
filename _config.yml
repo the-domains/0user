@@ -45,7 +45,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: UPTIME
-description: You are always ahead of time !
+description: ''
 author:
   name: Sandipan Banerjee
   email: ysiamhere@gmail.com
