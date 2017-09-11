@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[UPTIME]]></title>
-        <description><![CDATA[UPTIME]]></description>
+        <title><![CDATA[Wiser Than Thou]]></title>
+        <description><![CDATA[Wiser Than Thou]]></description>
         <link>https://thegrid.ai/uptime/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Sep 2017 00:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2017 19:54:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uptime/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Sep 2017 00:26:49 GMT</pubDate>
+        <pubDate>Mon, 11 Sep 2017 19:54:38 GMT</pubDate>
         <item>
             <title><![CDATA[Building a Talent Community At Scale | Greenhouse]]></title>
             <description><![CDATA[<article><h1>Building a Talent Community At Scale | Greenhouse</h1><p>What if instead of building a network, recruiters built a talent community? What if our communities were comprised of small businesses, meetup groups, and local university students hungry for a taste of what thriving companies have to offer?</p><img src="https://prod-marketing-greenhouse.global.ssl.fastly.net/blog-assets/Carvana_090717.jpg?mtime=20170904151915"></article>]]></description>
@@ -71,11 +71,11 @@
             <pubDate>Thu, 07 Sep 2017 21:33:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Freaking out about Hurricane Irma? You've got good reason]]></title>
-            <description><![CDATA[<article><h1>Freaking out about Hurricane Irma? You&apos;ve got good reason</h1><p>As of Thursday morning, the 180-mph Hurricane Irma continues to pose a grave threat to the southeastern United States. The best available modeling continues to suggest this will probably be a historically bad storm for much of the southern half of Florida.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2017/09/GettyImages-843489740-760x380.jpg"></article>]]></description>
-            <link>https://arstechnica.com/science/2017/09/freaking-out-about-hurricane-irma-youve-got-good-reason/</link>
-            <guid isPermaLink="false">10130190-af9d-4123-a100-4270d559cc58</guid>
-            <pubDate>Fri, 08 Sep 2017 00:26:48 GMT</pubDate>
+            <title><![CDATA[Inside The Secret Network Trying To Sabotage India's Coal Industry | GGI News]]></title>
+            <description><![CDATA[<article><h1>Inside The Secret Network Trying To Sabotage India&apos;s Coal Industry | GGI News</h1><p>In 1985, French secret service sinks a ship by planting a mine to its hull in New Zealand. In 2011, a German spy is caught with scanned maps of all nuclear plant and uranium mining locations in India. In 2012, the Manmohan Singh government is rocked with a scandal that eventually took down the government ...</p><img src="https://i0.wp.com/gginews.in/wp-content/uploads/2017/08/Coal-India-Secret-Network-Intelligence-Sabotage-Conspiracy-Adani.jpg?fit=1023%2C605"></article>]]></description>
+            <link>http://gginews.in/inside-secret-network-trying-sabotage-indias-coal-industry/</link>
+            <guid isPermaLink="false">22ead32b-cc54-4f17-bc9e-0eb43166ce73</guid>
+            <pubDate>Mon, 11 Sep 2017 19:54:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
