@@ -19,9 +19,9 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://gginews.in/inside-secret-network-trying-sabotage-indias-coal-industry/'
 title: Inside The Secret Network Trying To Sabotage India's Coal Industry | GGI News
-datePublished: '2017-09-11T19:54:37.451Z'
-dateModified: '2017-09-11T19:53:33.125Z'
-datePublishedOriginal: '2017-09-11T19:54:37.451Z'
+datePublished: '2017-09-11T20:01:30.680Z'
+dateModified: '2017-09-11T19:56:52.273Z'
+datePublishedOriginal: '2017-09-11T20:01:30.680Z'
 via: {}
 inFeed: true
 starred: false
